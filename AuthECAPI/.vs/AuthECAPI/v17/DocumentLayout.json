@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|d:\\angular\\angular user registration with asp.net core web api\\authecapi\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|d:\\angular\\angular user registration with asp.net core web api\\authecapi\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|d:\\angular\\angular user registration with asp.net core web api\\authecapi\\authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\appsettings.json",
+              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeToolTip": "AuthECAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T17:03:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:58:10.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Program.cs",
+              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeToolTip": "AuthECAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:47:34.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

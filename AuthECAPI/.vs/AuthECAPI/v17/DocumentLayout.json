@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|d:\\angular\\angular user registration with asp.net core web api\\authecapi\\authecapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|d:\\angular\\angular user registration with asp.net core web api\\authecapi\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthECAPI\\Migrations\\20250727144953_NameIsAddedInUserEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|d:\\angular\\angular user registration with asp.net core web api\\authecapi\\authecapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C20AA2AC-776F-4F3F-85D2-2CC77CD3CF2F}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727143733_InitiaMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthECAPI\\Migrations\\20250727143733_InitiaMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,46 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250727151541_FullNameIsAddedInUserEntity.Designer.cs",
-              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.Designer.cs",
-              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.Designer.cs",
-              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.Designer.cs",
-              "RelativeToolTip": "AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.Designer.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAvwFsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T15:17:07.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250727151541_FullNameIsAddedInUserEntity.cs",
-              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.cs",
-              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.cs",
-              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.cs",
-              "RelativeToolTip": "AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T15:15:41.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250727151346_FullNameIsAddedInUserEntity.cs",
-              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151346_FullNameIsAddedInUserEntity.cs",
-              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250727151346_FullNameIsAddedInUserEntity.cs",
-              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151346_FullNameIsAddedInUserEntity.cs",
-              "RelativeToolTip": "AuthECAPI\\Migrations\\20250727151346_FullNameIsAddedInUserEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T15:13:46.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -129,12 +90,11 @@
               "RelativeToolTip": "AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAOsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T14:58:39.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T14:58:39.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20250727145104_NameIsAddedInUserEntity2.cs",
               "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727145104_NameIsAddedInUserEntity2.cs",
               "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250727145104_NameIsAddedInUserEntity2.cs",
@@ -142,12 +102,11 @@
               "RelativeToolTip": "AuthECAPI\\Migrations\\20250727145104_NameIsAddedInUserEntity2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T14:51:04.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T14:51:04.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "20250727144953_NameIsAddedInUserEntity.cs",
               "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727144953_NameIsAddedInUserEntity.cs",
               "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250727144953_NameIsAddedInUserEntity.cs",
@@ -155,12 +114,11 @@
               "RelativeToolTip": "AuthECAPI\\Migrations\\20250727144953_NameIsAddedInUserEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T14:49:53.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T14:49:53.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppUser.cs",
@@ -168,12 +126,11 @@
               "RelativeToolTip": "AuthECAPI\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T14:45:50.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T14:45:50.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20250727143944_InitiaMigration.cs",
               "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727143944_InitiaMigration.cs",
               "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250727143944_InitiaMigration.cs",
@@ -181,25 +138,23 @@
               "RelativeToolTip": "AuthECAPI\\Migrations\\20250727143944_InitiaMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T14:39:44.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T14:39:44.324Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "AuthECAPI",
+              "Title": "AuthECAPI.csproj",
               "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
               "RelativeDocumentMoniker": "AuthECAPI\\AuthECAPI.csproj",
               "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
               "RelativeToolTip": "AuthECAPI\\AuthECAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-27T14:36:18.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T14:36:18.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\appsettings.json",
               "RelativeDocumentMoniker": "AuthECAPI\\appsettings.json",
@@ -207,18 +162,17 @@
               "RelativeToolTip": "AuthECAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-16T17:03:34.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T17:03:34.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Program.cs",
               "RelativeDocumentMoniker": "AuthECAPI\\Program.cs",
               "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Program.cs",
               "RelativeToolTip": "AuthECAPI\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwDYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T16:47:34.31Z",
               "EditorCaption": ""
@@ -226,6 +180,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "20250727151541_FullNameIsAddedInUserEntity.Designer.cs",
+              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.Designer.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.Designer.cs",
+              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.Designer.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAvwFsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:17:07.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AuthECAPI\\AppDbContext.cs",
@@ -233,12 +199,48 @@
               "RelativeToolTip": "AuthECAPI\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T16:58:10.862Z",
+              "WhenOpened": "2025-07-16T16:58:10.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthECAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T14:39:57.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "20250727151346_FullNameIsAddedInUserEntity.cs",
+              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151346_FullNameIsAddedInUserEntity.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250727151346_FullNameIsAddedInUserEntity.cs",
+              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151346_FullNameIsAddedInUserEntity.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20250727151346_FullNameIsAddedInUserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:13:46.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250727151541_FullNameIsAddedInUserEntity.cs",
+              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.cs",
+              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20250727151541_FullNameIsAddedInUserEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:15:41.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20250727145152_NameIsAddedInUserEntity3.cs",
               "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Migrations\\20250727145152_NameIsAddedInUserEntity3.cs",
               "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250727145152_NameIsAddedInUserEntity3.cs",
@@ -246,8 +248,7 @@
               "RelativeToolTip": "AuthECAPI\\Migrations\\20250727145152_NameIsAddedInUserEntity3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T14:51:52.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T14:51:52.828Z"
             },
             {
               "$type": "Document",
@@ -259,21 +260,7 @@
               "RelativeToolTip": "AuthECAPI\\Migrations\\20250727143733_InitiaMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T14:37:33.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "AuthECAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Angular\\Angular User Registration with ASP.NET Core Web API\\AuthECAPI\\AuthECAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "AuthECAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-27T14:39:57.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T14:37:33.715Z"
             }
           ]
         }

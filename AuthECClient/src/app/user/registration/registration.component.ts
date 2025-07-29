@@ -1,17 +1,24 @@
 import { Component } from '@angular/core';
 import { AbstractControl, FormBuilder, ReactiveFormsModule, ValidatorFn, Validators } from '@angular/forms';
 import { inject } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { FirstKeyPipe } from '../../shared/pipes/first-key.pipe';
+import { AuthService } from '../../shared/services/auth.service';
+import { ToastrService } from 'ngx-toastr';
 
 @Component({
   selector: 'app-registration',
   standalone: true,
-  imports: [ReactiveFormsModule],
+  imports: [ReactiveFormsModule, CommonModule, FirstKeyPipe],
   templateUrl: './registration.component.html',
   styles: ``
 })
 export class RegistrationComponent {
-  constructor(){ }
+   constructor(
+    private service: AuthService,
+    private toastr: ToastrService) { }
  private formBuilder = inject(FormBuilder);
+   isSubmitted: boolean = false;
 
   passwordMatchValidator: ValidatorFn = (control: AbstractControl): null => {
     const password = control.get('password');
@@ -37,7 +44,49 @@ export class RegistrationComponent {
 
 
 
+
   onSubmit() {
-    console.log(this.form.value);
+    this.isSubmitted = true;
+    if (this.form.valid) {
+      this.service.createUser(this.form.value)
+        .subscribe({
+          //success callback
+          next: (res: any) => {
+            if (res.succeeded) {
+              this.form.reset();
+              this.isSubmitted = false;
+              this.toastr.success('New user created!', 'Registration Successful')
+            }
+          },
+          error: err => {
+          //error callback
+            if (err.error.errors)
+              err.error.errors.forEach((x: any) => {
+                switch (x.code) {
+                  case "DuplicateUserName":
+                    break;
+
+                  case "DuplicateEmail":
+                    this.toastr.error('Email is already taken.', 'Registration Failed')
+                    break;
+
+                  default:
+                    this.toastr.error('Contact the developer', 'Registration Failed')
+                    console.log(x);
+                    break;
+                }
+              })
+            else
+              console.log('error:',err);
+          }
+
+        });
+    }
+  }
+
+  hasDisplayableError(controlName: string): boolean {
+    const control = this.form.get(controlName);
+    return Boolean(control?.invalid) &&
+      (this.isSubmitted || Boolean(control?.touched)|| Boolean(control?.dirty))
   }
 }
